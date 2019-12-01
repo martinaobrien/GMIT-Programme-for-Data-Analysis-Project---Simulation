@@ -12,8 +12,23 @@ To create a dataset by simulating a real-world phenomenon of your choosing. The 
 
 A real-world phonemenon that can be measured and for which you could collect at least one-hundred daya points across at least for different variables
 
-Investigate the types of variables involed, their likely distributions and their relationships with each other
+Investigate the types of variables involved, their likely distributions and their relationships with each other
 
 Synthesise/Simulate a data set as cloecly matching their properties as possible
 
 Detail your research and implement the simulation in a Jupyter notebook - the data set itself can be simpley displayed in an output cell within the notebook.
+
+
+To do list: 
+Description
+Background
+Motivation
+Modeling and Sythesising the Data
+Setting up the dataframe
+Creating Dataframe
+Sythesising the Data
+Weighting of Variable
+Distributions in the Dataframe
+Relationship between the variables
+
+Potential areas of future explorations
