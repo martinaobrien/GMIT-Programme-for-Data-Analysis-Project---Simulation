@@ -1,0 +1,201 @@
+,Age,Education Level,Gender
+0,57.0,Primary or Below,female
+1,24.0,Third level,female
+2,18.0,Third level,female
+3,33.0,Third level,female
+4,28.0,Third level,male
+5,41.0,Third level,male
+6,30.0,Third level,male
+7,30.0,Lower Secondary,male
+8,20.0,Third level,female
+9,27.0,Third level,female
+10,60.0,Primary or Below,male
+11,28.0,Third level,male
+12,50.0,Lower Secondary,male
+13,57.0,Post leaving certificate,female
+14,55.0,Third level,female
+15,25.0,Third level,female
+16,23.0,Third level,male
+17,17.0,Lower Secondary,male
+18,17.0,Higher Secondary,male
+19,25.0,Higher Secondary,male
+20,64.0,Post leaving certificate,female
+21,33.0,Third level,female
+22,52.0,Third level,female
+23,38.0,Third level,male
+24,40.0,Third level,female
+25,61.0,Lower Secondary,male
+26,20.0,Post leaving certificate,female
+27,38.0,Lower Secondary,male
+28,22.0,Higher Secondary,female
+29,41.0,Third level,female
+30,30.0,Higher Secondary,female
+31,41.0,Higher Secondary,male
+32,48.0,Third level,female
+33,33.0,Post leaving certificate,female
+34,46.0,Third level,female
+35,46.0,Higher Secondary,male
+36,36.0,Third level,male
+37,35.0,Higher Secondary,male
+38,34.0,Third level,male
+39,35.0,Third level,male
+40,19.0,Lower Secondary,male
+41,18.0,Lower Secondary,male
+42,19.0,Third level,female
+43,49.0,Post leaving certificate,male
+44,16.0,Third level,female
+45,39.0,Third level,female
+46,21.0,Lower Secondary,male
+47,17.0,Higher Secondary,female
+48,46.0,Third level,female
+49,37.0,Post leaving certificate,female
+50,63.0,Third level,female
+51,31.0,Third level,female
+52,25.0,Third level,female
+53,49.0,Lower Secondary,male
+54,32.0,Third level,female
+55,53.0,Third level,male
+56,54.0,Lower Secondary,male
+57,37.0,Higher Secondary,male
+58,28.0,Primary or Below,female
+59,16.0,Third level,male
+60,33.0,Third level,male
+61,20.0,Third level,male
+62,51.0,Third level,female
+63,38.0,Lower Secondary,male
+64,41.0,Higher Secondary,male
+65,49.0,Third level,female
+66,36.0,Third level,female
+67,45.0,Higher Secondary,female
+68,55.0,Post leaving certificate,female
+69,37.0,Post leaving certificate,female
+70,59.0,Higher Secondary,female
+71,26.0,Lower Secondary,female
+72,20.0,Higher Secondary,male
+73,16.0,Third level,female
+74,60.0,Third level,male
+75,46.0,Post leaving certificate,male
+76,26.0,Third level,female
+77,42.0,Primary or Below,female
+78,60.0,Third level,female
+79,58.0,Third level,male
+80,21.0,Primary or Below,female
+81,30.0,Third level,female
+82,29.0,Third level,female
+83,43.0,Higher Secondary,male
+84,51.0,Post leaving certificate,female
+85,31.0,Higher Secondary,male
+86,45.0,Third level,male
+87,40.0,Third level,male
+88,60.0,Higher Secondary,male
+89,25.0,Lower Secondary,female
+90,15.0,Higher Secondary,female
+91,19.0,Post leaving certificate,female
+92,36.0,Post leaving certificate,male
+93,39.0,Lower Secondary,female
+94,43.0,Third level,female
+95,58.0,Higher Secondary,male
+96,25.0,Lower Secondary,male
+97,36.0,Third level,male
+98,61.0,Higher Secondary,male
+99,33.0,Third level,female
+100,,Third level,female
+101,,Third level,female
+102,,Higher Secondary,male
+103,,Third level,male
+104,,Primary or Below,female
+105,,Third level,female
+106,,Higher Secondary,male
+107,,Third level,female
+108,,Post leaving certificate,female
+109,,Third level,male
+110,,Post leaving certificate,male
+111,,Post leaving certificate,male
+112,,Higher Secondary,female
+113,,Higher Secondary,male
+114,,Third level,male
+115,,Post leaving certificate,male
+116,,Third level,male
+117,,Third level,female
+118,,Third level,male
+119,,Higher Secondary,male
+120,,Higher Secondary,male
+121,,Post leaving certificate,female
+122,,Primary or Below,male
+123,,Third level,female
+124,,Post leaving certificate,female
+125,,Primary or Below,male
+126,,Third level,male
+127,,Higher Secondary,male
+128,,Higher Secondary,male
+129,,Post leaving certificate,male
+130,,Lower Secondary,female
+131,,Third level,male
+132,,Primary or Below,female
+133,,Third level,female
+134,,Third level,male
+135,,Third level,male
+136,,Post leaving certificate,female
+137,,Post leaving certificate,female
+138,,Third level,male
+139,,Third level,male
+140,,Higher Secondary,male
+141,,Higher Secondary,female
+142,,Higher Secondary,female
+143,,Third level,male
+144,,Third level,female
+145,,Lower Secondary,male
+146,,Third level,male
+147,,Post leaving certificate,female
+148,,Higher Secondary,male
+149,,Third level,female
+150,,Third level,male
+151,,Higher Secondary,female
+152,,Lower Secondary,female
+153,,Lower Secondary,female
+154,,Third level,female
+155,,Higher Secondary,female
+156,,Third level,male
+157,,Higher Secondary,male
+158,,Third level,female
+159,,Post leaving certificate,female
+160,,Lower Secondary,female
+161,,Third level,female
+162,,Higher Secondary,female
+163,,Post leaving certificate,female
+164,,Post leaving certificate,male
+165,,Third level,female
+166,,Third level,female
+167,,Higher Secondary,male
+168,,Higher Secondary,female
+169,,Third level,male
+170,,Third level,male
+171,,Higher Secondary,female
+172,,Third level,female
+173,,Third level,female
+174,,Third level,female
+175,,Lower Secondary,female
+176,,Third level,female
+177,,Third level,male
+178,,Post leaving certificate,male
+179,,Third level,female
+180,,Post leaving certificate,female
+181,,Third level,female
+182,,Third level,male
+183,,Lower Secondary,female
+184,,Higher Secondary,male
+185,,Primary or Below,female
+186,,Lower Secondary,female
+187,,Third level,female
+188,,Third level,female
+189,,Third level,male
+190,,Higher Secondary,female
+191,,Third level,female
+192,,Post leaving certificate,female
+193,,Third level,female
+194,,Primary or Below,male
+195,,Third level,male
+196,,Higher Secondary,female
+197,,Higher Secondary,male
+198,,Third level,female
+199,,Third level,female
