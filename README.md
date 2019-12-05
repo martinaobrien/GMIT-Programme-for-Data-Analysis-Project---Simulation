@@ -64,26 +64,39 @@ The notebook will be displayed automatically if the requisites named above are i
 
 The project contains 3 sections: 
 • Section 1: Introduction:
+
 Overview of the topic, evidenced by current and historic contexts, to provide the rationale of the real world phenomenon.
 
-Section 2:Modeling and Sythesising the Data:
+• Section 2:Modeling and Sythesising the Data:
+
 2.1: Setting up the dataframe
+
 2.2: Creating Dataframe
+
 2.3: Distributions in the Dataframe
+   
    Plot 1: Age Profile
+   
    Plot 2: Age Distribution
+   
    Plot 3: Highest Level of Education Attained
+   
    Plot 4: Gender Breakdown
+   
    Plot 5: Employment Status
+
 2.4: Relationships between the variables
+   
    Plot 1:  The employment rates amongst males and females
+   
    Plot 2.  The employment rates by their educational attainment level
+   
    Plot 3:  The educational attainment level amongst males and females who are both employed and unemployed
 
-Section 3: Conclusion:
+• Section 3: Conclusion:
 
 
-Section 4: References:
+• Section 4: References:
 
 The following packages are used in this repository, all of which can be found in the Anaconda package:
 
