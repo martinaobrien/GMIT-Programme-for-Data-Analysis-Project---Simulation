@@ -1,201 +1,201 @@
 ,Age,Education Level,Gender,Employment Status
-0,44,Third Level,male,Employed
-1,36,Higher Secondary,male,Employed
-2,26,Third Level,female,Employed
-3,27,Lower Secondary,male,Employed
-4,40,Third Level,female,Employed
-5,44,Third Level,male,Employed
-6,41,Higher Secondary,male,Employed
-7,49,Third Level,female,Employed
-8,42,Lower Secondary,female,Employed
-9,32,Third Level,male,Employed
-10,64,Third Level,female,Employed
-11,54,Post Leaving Certificate,female,Employed
-12,43,Higher Secondary,female,Employed
-13,43,Third Level,female,Employed
-14,62,Primary Level,female,Employed
-15,26,Third Level,male,Employed
-16,29,Lower Secondary,female,Employed
-17,52,Third Level,female,Employed
-18,35,Third Level,male,Employed
-19,42,Higher Secondary,male,Employed
-20,25,Third Level,male,Employed
-21,41,Third Level,male,Employed
-22,27,Third Level,male,Employed
-23,45,Third Level,male,Employed
-24,51,Lower Secondary,female,Employed
-25,49,Third Level,male,Employed
-26,34,Higher Secondary,female,Employed
-27,32,Third Level,male,Employed
-28,38,Post Leaving Certificate,female,Employed
-29,31,Post Leaving Certificate,male,Employed
-30,64,Third Level,male,Employed
-31,29,Third Level,male,Employed
-32,41,Lower Secondary,female,Employed
-33,51,Post Leaving Certificate,male,Employed
-34,30,Third Level,female,Employed
-35,51,Post Leaving Certificate,male,Employed
-36,27,Higher Secondary,female,Employed
-37,49,Primary Level,male,Employed
-38,62,Higher Secondary,male,Employed
-39,48,Third Level,male,Employed
-40,37,Third Level,female,Employed
-41,48,Post Leaving Certificate,female,Employed
-42,59,Post Leaving Certificate,female,Employed
-43,47,Third Level,female,Employed
-44,36,Third Level,female,Employed
-45,39,Higher Secondary,male,Employed
-46,36,Third Level,male,Employed
-47,28,Higher Secondary,male,Employed
-48,48,Higher Secondary,male,Employed
-49,25,Third Level,male,Employed
-50,26,Third Level,male,Employed
-51,49,Third Level,male,Employed
-52,37,Third Level,male,Employed
-53,55,Third Level,male,Employed
-54,63,Third Level,male,Employed
-55,64,Third Level,female,Employed
-56,45,Higher Secondary,male,Employed
-57,44,Third Level,male,Employed
-58,53,Third Level,male,Employed
-59,35,Higher Secondary,female,Not Employed
-60,54,Post Leaving Certificate,female,Employed
-61,34,Higher Secondary,male,Employed
-62,33,Primary Level,female,Employed
-63,62,Higher Secondary,male,Employed
-64,34,Third Level,female,Employed
-65,33,Higher Secondary,male,Employed
-66,29,Third Level,female,Employed
-67,39,Higher Secondary,male,Employed
-68,52,Higher Secondary,female,Employed
-69,48,Third Level,male,Employed
-70,62,Third Level,male,Employed
-71,42,Third Level,female,Employed
-72,32,Third Level,male,Employed
-73,43,Lower Secondary,female,Employed
-74,27,Lower Secondary,male,Employed
-75,45,Lower Secondary,male,Employed
-76,28,Higher Secondary,female,Not Employed
-77,59,Higher Secondary,female,Employed
-78,27,Third Level,male,Employed
-79,40,Third Level,female,Employed
-80,39,Post Leaving Certificate,male,Employed
-81,26,Third Level,female,Employed
-82,37,Third Level,female,Employed
-83,51,Third Level,female,Employed
-84,63,Primary Level,female,Employed
-85,48,Higher Secondary,male,Employed
-86,37,Third Level,female,Employed
-87,40,Post Leaving Certificate,male,Employed
-88,56,Post Leaving Certificate,female,Employed
-89,25,Third Level,male,Employed
-90,26,Third Level,female,Employed
-91,56,Higher Secondary,male,Employed
-92,41,Third Level,male,Employed
-93,38,Lower Secondary,female,Employed
-94,36,Third Level,male,Employed
-95,54,Third Level,female,Employed
-96,57,Post Leaving Certificate,male,Employed
-97,50,Third Level,male,Not Employed
-98,25,Higher Secondary,female,Employed
-99,49,Higher Secondary,female,Employed
-100,51,Higher Secondary,male,Employed
-101,27,Post Leaving Certificate,male,Employed
-102,36,Lower Secondary,male,Employed
-103,61,Higher Secondary,female,Employed
-104,25,Post Leaving Certificate,male,Employed
-105,46,Lower Secondary,male,Employed
-106,55,Post Leaving Certificate,female,Employed
-107,57,Lower Secondary,male,Not Employed
-108,25,Third Level,male,Employed
-109,43,Third Level,female,Employed
-110,40,Third Level,male,Employed
-111,40,Higher Secondary,female,Employed
-112,64,Post Leaving Certificate,male,Employed
-113,34,Post Leaving Certificate,female,Employed
-114,62,Third Level,female,Employed
-115,26,Third Level,male,Employed
-116,64,Primary Level,male,Employed
-117,57,Lower Secondary,female,Employed
-118,50,Lower Secondary,male,Employed
-119,25,Third Level,female,Employed
-120,51,Third Level,female,Employed
-121,59,Primary Level,male,Employed
-122,32,Primary Level,male,Not Employed
-123,42,Primary Level,female,Employed
-124,27,Post Leaving Certificate,male,Employed
-125,36,Third Level,male,Employed
-126,42,Post Leaving Certificate,male,Employed
-127,46,Lower Secondary,male,Employed
-128,62,Post Leaving Certificate,male,Not Employed
-129,31,Third Level,male,Employed
-130,44,Third Level,female,Employed
-131,50,Third Level,female,Employed
-132,51,Post Leaving Certificate,male,Employed
-133,36,Post Leaving Certificate,male,Employed
-134,29,Third Level,female,Employed
-135,27,Higher Secondary,male,Employed
-136,57,Third Level,male,Employed
-137,54,Lower Secondary,female,Employed
-138,44,Third Level,female,Employed
-139,41,Third Level,female,Employed
-140,47,Third Level,male,Employed
-141,25,Primary Level,male,Employed
-142,27,Post Leaving Certificate,male,Employed
-143,29,Third Level,female,Employed
-144,46,Third Level,female,Employed
-145,60,Post Leaving Certificate,male,Employed
-146,28,Higher Secondary,male,Employed
-147,51,Higher Secondary,male,Employed
-148,51,Third Level,male,Employed
-149,63,Lower Secondary,male,Employed
-150,57,Higher Secondary,male,Employed
-151,37,Primary Level,male,Employed
-152,45,Third Level,female,Employed
-153,34,Post Leaving Certificate,female,Employed
-154,41,Third Level,male,Employed
-155,49,Lower Secondary,male,Employed
-156,29,Third Level,female,Employed
-157,52,Third Level,female,Not Employed
-158,42,Third Level,male,Employed
-159,41,Post Leaving Certificate,female,Employed
-160,35,Third Level,male,Employed
-161,33,Higher Secondary,male,Employed
-162,55,Post Leaving Certificate,male,Not Employed
-163,58,Lower Secondary,male,Employed
-164,29,Third Level,female,Employed
-165,27,Primary Level,female,Employed
-166,35,Higher Secondary,male,Employed
-167,64,Lower Secondary,female,Employed
-168,60,Third Level,male,Not Employed
-169,63,Third Level,female,Not Employed
-170,33,Third Level,female,Employed
-171,38,Higher Secondary,female,Employed
-172,39,Higher Secondary,male,Employed
-173,62,Higher Secondary,female,Employed
-174,53,Higher Secondary,female,Employed
-175,55,Third Level,male,Employed
-176,45,Third Level,male,Employed
-177,34,Higher Secondary,male,Employed
-178,40,Higher Secondary,male,Employed
-179,25,Post Leaving Certificate,male,Employed
-180,64,Primary Level,female,Employed
-181,44,Primary Level,female,Employed
-182,54,Third Level,male,Employed
-183,60,Higher Secondary,female,Employed
-184,60,Third Level,female,Employed
-185,44,Higher Secondary,female,Employed
-186,40,Third Level,female,Employed
-187,51,Third Level,male,Employed
-188,32,Third Level,female,Employed
-189,25,Post Leaving Certificate,male,Employed
-190,58,Third Level,female,Employed
-191,51,Third Level,male,Employed
-192,64,Higher Secondary,male,Employed
-193,53,Higher Secondary,male,Employed
-194,44,Lower Secondary,male,Employed
-195,33,Third Level,male,Employed
-196,33,Third Level,male,Not Employed
-197,54,Third Level,male,Employed
-198,35,Primary Level,female,Employed
-199,38,Third Level,female,Employed
+0,34,Post Leaving Certificate,male,Employed
+1,61,Higher Secondary,male,Employed
+2,40,Higher Secondary,male,Employed
+3,25,Higher Secondary,male,Employed
+4,53,Primary Level,female,Employed
+5,50,Lower Secondary,female,Employed
+6,54,Third Level,male,Employed
+7,54,Post Leaving Certificate,male,Employed
+8,33,Third Level,female,Employed
+9,34,Third Level,male,Employed
+10,25,Lower Secondary,female,Employed
+11,61,Third Level,female,Employed
+12,41,Third Level,female,Employed
+13,61,Third Level,female,Employed
+14,36,Higher Secondary,male,UnEmployed
+15,49,Higher Secondary,male,Employed
+16,58,Higher Secondary,male,Employed
+17,33,Third Level,female,UnEmployed
+18,61,Primary Level,male,Employed
+19,39,Higher Secondary,female,Employed
+20,38,Primary Level,male,Employed
+21,30,Higher Secondary,male,Employed
+22,38,Lower Secondary,female,Employed
+23,50,Lower Secondary,female,Employed
+24,38,Third Level,female,Employed
+25,53,Third Level,male,Employed
+26,47,Lower Secondary,male,Employed
+27,55,Third Level,male,Employed
+28,55,Higher Secondary,male,Employed
+29,50,Third Level,female,Employed
+30,37,Third Level,female,Employed
+31,26,Third Level,male,Employed
+32,56,Primary Level,female,Employed
+33,61,Primary Level,male,Employed
+34,52,Primary Level,male,Employed
+35,43,Higher Secondary,male,Employed
+36,54,Third Level,male,Employed
+37,38,Third Level,male,Employed
+38,47,Higher Secondary,female,Employed
+39,48,Higher Secondary,female,Employed
+40,55,Post Leaving Certificate,female,Employed
+41,36,Third Level,male,Employed
+42,53,Primary Level,male,Employed
+43,35,Higher Secondary,female,Employed
+44,49,Higher Secondary,male,Employed
+45,34,Third Level,male,Employed
+46,40,Third Level,male,Employed
+47,43,Third Level,male,Employed
+48,41,Post Leaving Certificate,female,Employed
+49,32,Higher Secondary,male,Employed
+50,49,Third Level,male,Employed
+51,36,Third Level,female,Employed
+52,42,Third Level,male,Employed
+53,32,Post Leaving Certificate,male,Employed
+54,36,Lower Secondary,male,UnEmployed
+55,53,Post Leaving Certificate,female,Employed
+56,58,Third Level,male,Employed
+57,45,Third Level,female,Employed
+58,57,Third Level,male,Employed
+59,49,Third Level,male,Employed
+60,30,Post Leaving Certificate,female,Employed
+61,29,Third Level,male,Employed
+62,32,Third Level,male,Employed
+63,49,Third Level,female,Employed
+64,49,Third Level,female,Employed
+65,59,Third Level,female,Employed
+66,40,Third Level,female,Employed
+67,38,Third Level,male,Employed
+68,49,Third Level,female,Employed
+69,40,Higher Secondary,female,Employed
+70,31,Third Level,female,Employed
+71,46,Third Level,female,Employed
+72,47,Third Level,male,Employed
+73,36,Lower Secondary,male,Employed
+74,37,Higher Secondary,female,Employed
+75,53,Third Level,female,Employed
+76,57,Third Level,female,Employed
+77,40,Third Level,female,Employed
+78,58,Post Leaving Certificate,male,Employed
+79,50,Higher Secondary,female,Employed
+80,34,Third Level,male,Employed
+81,62,Higher Secondary,female,Employed
+82,25,Third Level,female,Employed
+83,43,Third Level,male,Employed
+84,48,Lower Secondary,female,Employed
+85,28,Lower Secondary,male,Employed
+86,54,Third Level,female,Employed
+87,41,Post Leaving Certificate,male,Employed
+88,45,Third Level,female,Employed
+89,43,Third Level,female,Employed
+90,39,Higher Secondary,female,Employed
+91,40,Third Level,male,UnEmployed
+92,42,Higher Secondary,male,Employed
+93,50,Third Level,female,Employed
+94,42,Higher Secondary,male,Employed
+95,57,Third Level,female,Employed
+96,42,Third Level,female,Employed
+97,41,Third Level,male,Employed
+98,51,Third Level,male,Employed
+99,37,Primary Level,male,Employed
+100,55,Third Level,female,Employed
+101,42,Lower Secondary,female,Employed
+102,42,Third Level,male,Employed
+103,41,Third Level,male,Employed
+104,25,Third Level,male,Employed
+105,56,Primary Level,female,Employed
+106,62,Higher Secondary,male,Employed
+107,34,Third Level,male,Employed
+108,25,Third Level,female,Employed
+109,63,Third Level,female,Employed
+110,47,Higher Secondary,male,Employed
+111,57,Third Level,female,Employed
+112,27,Post Leaving Certificate,female,Employed
+113,28,Lower Secondary,male,Employed
+114,56,Third Level,male,Employed
+115,60,Higher Secondary,female,Employed
+116,52,Third Level,male,Employed
+117,43,Third Level,male,Employed
+118,38,Third Level,male,Employed
+119,54,Third Level,male,UnEmployed
+120,36,Post Leaving Certificate,male,Employed
+121,47,Third Level,male,Employed
+122,62,Post Leaving Certificate,male,Employed
+123,36,Third Level,female,Employed
+124,46,Post Leaving Certificate,female,Employed
+125,58,Third Level,male,Employed
+126,56,Lower Secondary,male,Employed
+127,49,Third Level,female,Employed
+128,57,Third Level,female,Employed
+129,62,Third Level,female,Employed
+130,34,Post Leaving Certificate,male,Employed
+131,62,Third Level,female,Employed
+132,51,Lower Secondary,male,Employed
+133,32,Third Level,male,Employed
+134,33,Post Leaving Certificate,female,Employed
+135,46,Third Level,male,Employed
+136,33,Post Leaving Certificate,male,Employed
+137,53,Higher Secondary,female,Employed
+138,55,Higher Secondary,female,Employed
+139,50,Post Leaving Certificate,female,Employed
+140,50,Higher Secondary,male,Employed
+141,39,Third Level,male,Employed
+142,42,Post Leaving Certificate,male,Employed
+143,46,Higher Secondary,male,Employed
+144,38,Third Level,female,Employed
+145,58,Third Level,male,Employed
+146,29,Third Level,male,Employed
+147,48,Third Level,female,UnEmployed
+148,55,Higher Secondary,male,Employed
+149,53,Third Level,female,Employed
+150,64,Third Level,male,Employed
+151,52,Post Leaving Certificate,male,Employed
+152,64,Lower Secondary,male,Employed
+153,34,Primary Level,female,Employed
+154,32,Third Level,female,Employed
+155,47,Third Level,male,Employed
+156,57,Lower Secondary,male,Employed
+157,28,Higher Secondary,male,Employed
+158,34,Third Level,female,Employed
+159,37,Third Level,female,Employed
+160,29,Third Level,female,Employed
+161,55,Higher Secondary,female,Employed
+162,31,Third Level,female,Employed
+163,35,Higher Secondary,male,Employed
+164,55,Third Level,male,Employed
+165,34,Third Level,male,Employed
+166,27,Lower Secondary,male,Employed
+167,26,Third Level,male,Employed
+168,63,Higher Secondary,male,Employed
+169,38,Third Level,male,Employed
+170,36,Third Level,female,Employed
+171,30,Higher Secondary,male,Employed
+172,54,Third Level,female,Employed
+173,45,Third Level,male,Employed
+174,59,Lower Secondary,male,Employed
+175,57,Lower Secondary,male,Employed
+176,55,Third Level,female,Employed
+177,47,Third Level,female,Employed
+178,30,Higher Secondary,male,Employed
+179,43,Higher Secondary,female,Employed
+180,26,Third Level,female,Employed
+181,38,Third Level,female,Employed
+182,43,Third Level,male,Employed
+183,52,Post Leaving Certificate,female,Employed
+184,44,Third Level,female,Employed
+185,62,Third Level,male,Employed
+186,32,Third Level,male,Employed
+187,49,Third Level,female,Employed
+188,64,Lower Secondary,male,Employed
+189,40,Third Level,male,Employed
+190,31,Third Level,female,Employed
+191,34,Higher Secondary,female,Employed
+192,25,Higher Secondary,female,Employed
+193,29,Primary Level,male,Employed
+194,39,Post Leaving Certificate,female,Employed
+195,29,Third Level,female,Employed
+196,31,Higher Secondary,male,Employed
+197,34,Third Level,male,Employed
+198,61,Higher Secondary,female,Employed
+199,51,Post Leaving Certificate,male,Employed
